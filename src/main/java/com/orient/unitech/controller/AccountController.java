@@ -4,7 +4,7 @@ package com.orient.unitech.controller;
 import com.orient.unitech.model.CardDto;
 import com.orient.unitech.model.LoginDto;
 import com.orient.unitech.repository.AccountRepository;
-import com.orient.unitech.service.impl.AccountService;
+import com.orient.unitech.service.AccountService;
 import com.orient.unitech.model.Account;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
